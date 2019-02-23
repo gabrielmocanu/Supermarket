@@ -1,2 +1,2 @@
 # Supermarket
-Simulation of interaction in a supermarket
+Simulations of interaction in a supermarket
